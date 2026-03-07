@@ -1,0 +1,856 @@
+code,description,present,count
+01.01.01,Estrellas,False,0
+01.01.15,"Cometas, estrellas con cola",True,602
+01.01.17,Brújulas,True,731
+01.03.01,Sol saliente o poniente,True,2604
+01.03.02,Otras representaciones del sol,True,5022
+01.03.19,Varios soles,True,48
+01.05.01,Globos terráqueos,True,3297
+01.05.15,Partes de globos terráqueos,True,676
+01.05.24,Saturno,True,1918
+01.05.25,Otros planetas,True,507
+01.07.01,"Luna llena, varias lunas",True,314
+01.07.06,"Luna creciente, media luna",True,1567
+01.07.19,Varios crecientes o medias lunas,True,426
+01.07.22,Globo lunar,True,37
+01.11.01,"Constelaciones, galaxias",True,164
+01.11.12,Cielo estrellado,True,425
+01.11.15,"Globos celestes, mapas celestes",True,38
+01.13.01,"Esferas armilares, planetarios, órbitas astronómicas, modelos atómicos, modelos moleculares",True,5028
+01.15.01,Arco iris,True,342
+01.15.03,Relámpagos,True,2357
+01.15.05,Llamas,True,3523
+01.15.07,"Chispas, explosiones, fuegos artificiales explotando",True,855
+01.15.09,"Fuentes luminosas, rayos, haces de luz",True,3528
+01.15.11,"Nubes, niebla, vapor, humo",True,4166
+01.15.13,"Lluvia, granizo",True,71
+01.15.14,Charcos (de agua),True,562
+01.15.15,Gotas,True,9424
+01.15.17,"Nieve, copos de nieve o cristales de nieve",True,1079
+01.15.19,"Carámbanos, estalactitas, estalagmitas, cristales minerales",True,279
+01.15.21,"Burbujas, masas espumosas",True,5417
+01.15.23,"Torbellinos, movimientos rotatorios, tornados",True,2643
+01.15.24,Olas,True,2721
+01.15.25,Otros fenómenos naturales no clasificados en otras divisiones o categorías,True,247
+01.17.01,Planisferios,True,353
+01.17.02,Continentes,False,0
+01.17.07,Grupos de países,True,59
+01.17.11,Países aislados,True,479
+01.17.12,"Islas, archipiélagos",True,255
+01.17.13,Partes de un país,True,204
+01.17.14,Planos urbanos,True,54
+01.17.15,Mapas polares,True,2
+01.17.25,Otros mapas geográficos,True,191
+02.01.01,"Cabezas, bustos",True,5903
+02.01.02,Hombres armados u hombres vistiendo armadura o uniforme,True,1046
+02.01.03,"Figuras religiosas, hombres vistiendo toga o túnica",True,414
+02.01.04,"Hombres vistiendo ropa tradicional, o disfraz folclórico o histórico",True,1794
+02.01.05,Hombres vistiendo esmoquin o traje,True,598
+02.01.07,"Arlequines, payasos, pierots, personajes de carnaval o figuras grotescas o extravagantes, gnomos, magos",True,660
+02.01.08,"Acróbatas, atletas, bailarines, malabaristas, hombres practicando deporte",True,2968
+02.01.09,"Músicos, hombres con instrumentos musicales, directores de orquesta",True,230
+02.01.10,"Enfermeras, doctores, dentistas, personal de laboratorio",True,94
+02.01.11,"Carniceros, chefs, camareros, pasteleros",True,1089
+02.01.12,"Marineros, marinos, pescadores, piratas",True,269
+02.01.13,"Campesinos, trabajadores agrícolas",True,421
+02.01.14,"Buceadores, hombres rana",True,60
+02.01.15,Otros profesionales (hombres),True,1058
+02.01.20,"Hombres montados o acompañados por un caballo, mula o burro",True,1003
+02.01.21,Hombres montados en animales o acompañados por animales,True,403
+02.01.22,Personajes alegorías o mitológicos masculinos,True,357
+02.01.25,Obreros industriales y albañiles,True,145
+02.01.26,Hombres de las cavernas,True,20
+02.01.28,"Hombres desnudos o vistiendo ropa interior, traje de baño u otra ropa ligera",False,0
+02.01.29,Hombres montando bicicletas o motocicletas,False,0
+02.01.30,Otros hombres,True,701
+02.01.32,Hombres sosteniendo paraguas o bastones,False,0
+02.01.33,Hombres con las manos en las caderas,False,0
+02.03.01,"Cabezas, bustos",True,2487
+02.03.03,"Monjas, enfermeras, doctoras, dentistas, personal de laboratorio",True,67
+02.03.04,"Mujeres vistiendo ropa tradicional, o disfraz folclórico o histórico",True,833
+02.03.05,"Mujeres desnudas o vistiendo ropa interior, traje de baño u otra ropa ligera",True,634
+02.03.07,"Mujeres vistiendo vestido de noche, traje o chaqueta",True,283
+02.03.08,"Acróbatas mujeres, atletas mujeres, mujeres practicando deporte, bailarinas, mayordomas",True,616
+02.03.09,"Mujeres vistiendo kimono, sari, djellaba",True,78
+02.03.10,Mujeres vistiendo ropa de calle,True,220
+02.03.11,"Mujeres cocinando o haciendo trabajo doméstico, camareras",True,350
+02.03.12,Mujeres haciendo trabajo agrícola,True,155
+02.03.13,"Mujeres cosiendo, hilando o tejiendo",True,16
+02.03.14,"Mujeres con máquinas de escribir, computadoras u otro trabajo de oficina",True,4
+02.03.15,Otros profesionales (mujeres),True,87
+02.03.20,"Mujeres montadas o acompañadas por un caballo, mula o burro",True,62
+02.03.21,Mujeres montadas en animales o acompañadas por animales,True,83
+02.03.22,"Personajes alegorías o mitológicos femeninos, brujas, mujeres grotescas",True,358
+02.03.25,Mujeres armadas o vistiendo armadura o uniforme,True,27
+02.03.26,"Músicas, mujeres con instrumentos musicales, directoras de orquesta",True,22
+02.03.28,Mujeres embarazadas,True,26
+02.03.29,Mujeres montando bicicletas o motocicletas,False,0
+02.03.30,Otras mujeres,True,465
+02.03.32,Mujeres sosteniendo paraguas o bastones,False,0
+02.03.33,Mujeres con las manos en las caderas,False,0
+02.05.01,"Cabezas, bustos",True,983
+02.05.02,Niños,True,1100
+02.05.03,Niñas,True,793
+02.05.04,"Niños vistiendo ropa tradicional, o disfraz folclórico o histórico",True,143
+02.05.05,Niños en uniforme de trabajo o vistiendo uniforme,True,49
+02.05.06,Bebés,True,538
+02.05.08,Niños practicando deporte o jugando,True,304
+02.05.20,Niños con instrumentos musicales,True,47
+02.05.21,Niños con animales,True,175
+02.05.29,Niños montando bicicletas,False,0
+02.05.30,Otros niños,True,69
+02.07.01,"Cabezas o bustos de hombre y mujer (pareja), cabezas o bustos de adulto y niño",True,367
+02.07.02,Hombre y mujer (pareja),True,609
+02.07.04,"Hombre y mujer (pareja) vistiendo ropa tradicional, o disfraz folclórico o histórico",True,116
+02.07.09,Mujer (mujeres) y bebé (bebés),True,137
+02.07.10,Mujer (mujeres) y niño (niños),True,107
+02.07.11,"Hombre (hombres) y bebé (bebés), hombre (hombres) y niño (niños)",True,111
+02.07.12,Un hombre y una mujer con niño (niños) (familia),True,224
+02.07.13,Escenas de deporte en grupo,True,197
+02.07.14,Grupos de trabajadores en campos o bosques,True,84
+02.07.15,Otros grupos trabajando,True,113
+02.07.16,"Teatro, variedad, concierto o escenas de danza",True,191
+02.07.17,"Espectáculos itinerantes, ferias y parques de atracciones, escenas de calle, grupos con vehículo(s)",True,61
+02.07.18,Grupos comiendo o bebiendo,True,89
+02.07.19,"Escenas de interior, grupos reunidos alrededor de una mesa",True,61
+02.07.20,"Escenas de batalla, tropas militares",True,21
+02.07.21,Grupos montados en o acompañados por animales,True,89
+02.07.23,"Grupos estilizados, sombras o siluetas de grupos",True,1293
+02.07.25,Otros grupos o escenas,True,402
+02.09.01,Corazones,True,10085
+02.09.04,Ojos,True,3139
+02.09.06,Orejas,True,121
+02.09.07,Narices,True,55
+02.09.08,"Labios, bocas, lenguas",True,882
+02.09.10,"Dientes, dentaduras",True,808
+02.09.12,"Cabello, mechones de cabello, pelucas, barbas, bigotes",True,438
+02.09.13,"Uñas, uñas de los pies",False,0
+02.09.14,"Manos, manos cruzadas, dedos, impresiones de manos o huellas dactilares, brazos",True,2731
+02.09.19,"Pies, dedos de los pies, impresiones de pies o huellas, piernas",True,982
+02.09.21,Cuerpos o maniquíes sin cabeza o pies,True,175
+02.09.22,"Esqueletos, huesos",True,377
+02.09.23,Cráneos,True,843
+02.09.24,Pulmones (sistema respiratorio),True,97
+02.09.25,Otras partes del cuerpo humano,True,2208
+02.09.26,Cerebros,False,0
+03.01.01,Leones,True,1644
+03.01.04,Tigres u otros grandes felinos,True,1148
+03.01.06,Gatos u otros pequeños felinos,True,1874
+03.01.08,"Perros, lobos, zorros",True,4491
+03.01.14,"Osos, koalas, wombats",True,1737
+03.01.15,Pandas,True,251
+03.01.16,Cabezas de animales de la Serie I,True,4573
+03.02.01,"Elefantes, mamuts",True,1058
+03.02.07,"Hipopótamo, rinoceronte",True,406
+03.02.09,Jirafas,True,162
+03.02.11,Oquapis,False,0
+03.02.13,"Camellos, dromedarios, llamas, alpacas, vicuñas",True,199
+03.02.15,Cabezas de animales de la Serie II,True,373
+03.03.01,"Caballos, mulas",True,2292
+03.03.02,Burros,True,87
+03.03.03,Cebras,True,107
+03.03.15,Cabezas de animales de la Serie III,True,979
+03.04.01,Bovinos,False,0
+03.04.07,"Ciervos, venados, alces, renos, cervatillos, antílopes",True,988
+03.04.11,"Cabras, ovejas, muflones, gamuza",True,1023
+03.04.12,"Cabezas de animales de la Serie IV, sin cuernos",True,369
+03.04.13,"Cabezas de animales de la Serie IV, con cuernos",True,1809
+03.04.18,"Cerdos, jabalíes, jabalíes verrugosos",True,713
+03.04.20,Cabezas de cerdos o jabalíes,True,227
+03.05.01,"Conejos, liebres",True,683
+03.05.03,Ardillas,True,199
+03.05.05,"Castores, marmotas, tejones, martines, visones, glotones, mapaches, zorrillos, armadillos",True,319
+03.05.06,Ornitorrincos,True,1
+03.05.07,"Ratas, ratones, topos, hámsteres",True,381
+03.05.09,"Erizos, puercoespines",True,107
+03.05.11,"Pangolines, osos hormigueros",True,20
+03.05.15,Canguros,True,328
+03.05.17,Otros cuadrúpedos pertenecientes a la Serie I a V,True,54
+03.05.19,"Monos, simios, orangutanes y otros cuadrumanos",True,748
+03.05.20,Cabezas de animales de la Serie V,True,645
+03.06.01,"Partes de cuerpos de cuadrúpedos o cuadrumanos, esqueletos, cráneos",False,0
+03.07.01,"Águilas, halcones, buitres, cóndores",True,1916
+03.07.03,"Gallos, gallinas, pollos",True,1369
+03.07.04,"Pavos, faisanes, pavos reales, abubillas",True,381
+03.07.05,Búhos,True,688
+03.07.06,"Patos, gansos, cisnes",True,1131
+03.07.07,"Cigüeñas, garzas, grúas, flamencos u otras aves zancudas",True,478
+03.07.08,Pingüinos,True,297
+03.07.09,"Albatros, cormoranes, gaviotas, pelícanos",True,395
+03.07.10,Golondrinas,True,314
+03.07.11,"Palomas, tórtolas",True,563
+03.07.12,"Grajillas, cuervos, grajos, urracas",True,149
+03.07.13,Gorriones u otros pájaros paseriformes,True,293
+03.07.14,"Avestruces, emúes",True,59
+03.07.15,"Loros, periquitos, tucanes",True,445
+03.07.16,Aves en vuelo o con alas extendidas,True,4372
+03.07.17,"Alas, estilizadas o no",True,2978
+03.07.18,Kiwis,True,51
+03.07.19,"Cabezas de aves, partes de aves, plumas, huellas, esqueletos de aves",True,828
+03.07.20,"Nidos, jaulas para pájaros",True,79
+03.07.21,Otras aves,True,1611
+03.07.22,Colibríes,True,383
+03.07.23,Murciélagos,True,161
+03.07.26,Grupos de aves o murciélagos,True,1036
+03.09.01,"Peces, animales de forma similar a peces",False,0
+03.09.13,"Cabezas, partes de peces y/u otros animales acuáticos, esqueletos",True,378
+03.09.14,Caballos de mar,True,241
+03.09.15,"Calamares, pulpos",True,269
+03.09.16,"Crustáceos (cangrejos, camarones, cangrejos de río, langostas), escorpiones",True,452
+03.09.17,Estrellas de mar,True,147
+03.09.18,"Moluscos (ostras, mejillones, caracoles, otros moluscos), conchas de moluscos",True,464
+03.09.19,"Coral, arrecife de coral",True,46
+03.09.20,Medusas,True,45
+03.09.21,Grupos de animales acuáticos de la división,True,48
+03.09.22,"Acuarios, terrarios o vivarios que contienen animales de la división",True,25
+03.09.23,Otros animales acuáticos,True,59
+03.11.01,Serpientes,True,548
+03.11.06,Gusanos,True,63
+03.11.07,"Caracoles, babosas",True,309
+03.11.09,"Caimanes, yacarés, cocodrilos",True,197
+03.11.10,"Camaleones, lagartos, salamandras",True,571
+03.11.11,Tortugas,True,306
+03.11.12,"Sapos, ranas, renacuajos",True,490
+03.11.17,"Focas, leones marinos",True,122
+03.11.21,Grupos de animales de la división,True,1
+03.11.22,Terrarios o vivarios que contienen animales de la división,False,0
+03.11.23,Otros animales pertenecientes a la división,True,18
+03.13.01,Mariposas,True,2207
+03.13.02,Insectos,False,0
+03.13.05,"Colmenas, celdas de panal",True,603
+03.13.20,Microorganismos,True,42
+03.13.21,"Grupos de insectos, arañas o microorganismos, de diferentes tipos",True,26
+04.01.01,Cabezas humanas aladas,True,59
+04.01.02,"Niños alados (querubines, cupidos)",True,323
+04.01.03,Otros personajes alados,True,622
+04.01.04,"Demonios u otros personajes con cuernos, con o sin alas",True,290
+04.01.05,Cabezas de demonios o personajes con cuernos,True,251
+04.01.25,Grupos de personajes alados u con cuernos clasificados en diferentes secciones de la división,True,11
+04.02.01,Centauros,True,107
+04.02.05,Esfinge,True,29
+04.02.08,Tritones,True,32
+04.02.11,"Sirenas, náyades",True,212
+04.02.20,Otros seres parcialmente humanos y parcialmente animales,True,229
+04.02.25,Grupos de seres clasificados en diferentes secciones de la división,True,1
+04.03.01,"Leones alados, grifos",True,549
+04.03.03,Dragones,True,902
+04.03.05,Caballos alados (Pegaso),True,305
+04.03.07,Otros cuadrúpedos alados,True,132
+04.03.09,Unicornios,True,346
+04.03.10,Monstruos con varias cabezas,True,31
+04.03.11,"Yetis, Abominables Hombres de las Nieves",True,41
+04.03.19,Cabezas de animales fabulosos,True,257
+04.03.20,"Fénices, otros animales fabulosos",True,299
+04.03.25,Grupos de animales fabulosos clasificados en diferentes secciones de la división,True,7
+04.05.01,"Plantas personificadas, combinaciones de plantas que representan un personaje",True,907
+04.05.02,"Objetos personificados, combinaciones de objetos que representan un personaje",True,1933
+04.05.03,"Figuras o sólidos geométricos personificados, combinaciones de figuras o sólidos geométricos que representan un personaje",True,791
+04.05.04,Robots de apariencia humana,True,543
+04.05.05,"Otras personificaciones no identificables, humanoides, otros seres fantásticos de apariencia humana",True,1803
+04.05.07,Caras sonrientes,False,0
+04.05.11,Plantas o combinaciones de plantas que representan un animal,True,44
+04.05.12,Objetos o combinaciones de objetos que representan un animal,True,234
+04.05.13,Figuras o sólidos geométricos o combinaciones de figuras o sólidos geométricos que representan un animal,True,163
+04.05.14,Robots que tienen apariencia de animales,True,45
+04.05.15,"Otras formas que representan un animal no identificable, otros seres fantásticos con apariencia de animales",True,686
+04.05.21,Máscaras o cabezas fantásticas o no identificables,True,1253
+05.01.01,"Árboles o arbustos de forma triangular, forma cónica (puntiaguda en la parte superior) o forma de ""llama de vela"" (abetos, cipreses, etc.)",True,562
+05.01.02,Árboles o arbustos de forma alargada (álamos),True,154
+05.01.03,Árboles o arbustos de alguna otra forma,True,2283
+05.01.04,Árboles o arbustos sin hojas,True,280
+05.01.09,Grupos de árboles o arbustos de diferentes formas,True,92
+05.01.19,"Vides, tocones",True,111
+05.01.20,Troncos de árboles sin ramas,True,105
+05.01.21,"Ramas grandes, ramas sin hojas o sin agujas",True,136
+05.03.01,Hojas de tabaco,True,228
+05.03.02,Hojas de roble,True,282
+05.03.03,Hojas de acebo,True,25
+05.03.04,Hojas de vid,True,802
+05.03.05,Hojas de castaño,True,29
+05.03.06,"Tréboles, cuatrihoja",True,941
+05.03.07,"Helechos, palmeras",True,260
+05.03.08,Hojas de glicina o acacia,True,47
+05.03.09,Hojas de ginkgo,True,54
+05.03.11,Otras hojas,True,10636
+05.03.16,"Más de cuatro hojas, hojas dispersas, ramos de hojas",True,1722
+05.03.17,"Ramas de olivo, con o sin fruta",True,811
+05.03.18,Ramitas de muérdago,False,0
+05.03.19,Brotes de vid,True,111
+05.03.20,"Otras ramas con hojas, con o sin fruta",True,2535
+05.03.22,"Agujas, ramas con agujas",True,61
+05.05.01,Rosas,True,1080
+05.05.02,"Lirios, azafranes",True,1005
+05.05.03,"Tulipanes, magnolias",True,505
+05.05.04,"Margaritas, girasoles, margaritas",True,1144
+05.05.05,Claveles,True,30
+05.05.06,Pensamientos,True,87
+05.05.07,Lilas u otras flores que crecen en racimos verticales,True,58
+05.05.08,Glicinas u otras flores que crecen en racimos colgantes,True,19
+05.05.10,Edelweiss,True,154
+05.05.11,Genciana,True,13
+05.05.12,Cardos,True,194
+05.05.13,Amapolas,True,70
+05.05.14,Crisantemos,True,12
+05.05.15,Orquídeas,True,75
+05.05.16,Flores de loto,True,759
+05.05.17,Flor de Pascua,False,0
+05.05.18,Flores umbeladas,True,47
+05.05.19,"Otras flores, flores silvestres",True,4585
+05.05.23,"Grupos de flores de diferentes tipos, ramos, gavillas o cestas de flores, camas de flores, flores dispersas",True,478
+05.05.24,Pétalos de flores,False,0
+05.05.25,Pistilos y estambres de flores,False,0
+05.07.01,"Grano, semillas",True,453
+05.07.02,"Espigas de cereales (trigo, centeno, cebada, etc.), mazorcas, manojos de cereales (avena, arroz, etc.)",True,3381
+05.07.05,Gavillas de cereales,True,131
+05.07.06,"Frutas con cáscara (almendras, cacahuetes, granos de cacao, nueces, cocos, avellanas, etc.)",True,878
+05.07.07,"Frutas cupuladas (castañas, castaños comestibles, bellotas, etc.)",True,290
+05.07.08,"Fresas, frambuesas, moras",True,544
+05.07.09,"Kiwis, grosella y otras bayas",True,213
+05.07.10,Uvas (especímenes individuales o racimos),True,1262
+05.07.11,"Naranjas, mandarinas o tangerinas, pomelos",True,839
+05.07.12,Limones,True,563
+05.07.13,Manzanas,True,1282
+05.07.14,"Frutas de hueso (albaricoques, duraznos, ciruelas, ciruelas pasas, dátiles, mangos, litchis, nísperos, etc.)",True,283
+05.07.15,Peras,True,172
+05.07.16,Cerezas,True,322
+05.07.17,Piñas,True,149
+05.07.18,Plátanos,True,194
+05.07.19,Aceitunas,True,511
+05.07.20,"Melones, sandías",True,109
+05.07.21,Otras frutas,True,686
+05.07.24,Grupos de frutas de diferentes tipos,True,720
+05.07.25,Cuencos o canastas de frutas,True,87
+05.07.26,Frutas en frascos,True,7
+05.07.27,Granos de café,True,998
+05.07.28,Aguacates,False,0
+05.09.01,Zanahorias,True,169
+05.09.03,"Papas, otros tubérculos",True,141
+05.09.06,"Cebollas, bulbos",True,259
+05.09.08,Puerros,True,11
+05.09.10,Espárragos,True,20
+05.09.12,"Repollos, lechuga, achicoria",True,93
+05.09.14,Calabazas,True,29
+05.09.15,"Berenjenas, pepinos, pepinillos, pimientos dulces",True,510
+05.09.17,Tomates,True,623
+05.09.19,"Judías, guisantes, lentejas",True,89
+05.09.21,Otras verduras,True,274
+05.09.24,Grupos de verduras de diferentes tipos,True,396
+05.09.25,Canastas de verduras,True,70
+05.09.26,Verduras en frascos,False,0
+05.11.01,"Algas, algas marinas y otras plantas",True,466
+05.11.10,Otras plántulas o semillas germinadas,True,48
+05.13.01,"Coronas de hojas, flores o frutos",True,117
+05.13.03,Palmeras cruzadas,True,18
+05.13.04,Ramas cruzadas,True,1691
+05.13.06,Decoraciones de ramas de vid,True,220
+05.13.07,"Guirnaldas, bandas, bordes o marcos hechos de plantas",True,720
+05.13.15,"Árboles de Navidad, ramas de árboles de Navidad",True,33
+05.13.25,Otras decoraciones hechas de plantas,True,1800
+06.01.01,"Acantilados, rocas, muros de rocas",True,219
+06.01.02,"Montañas, paisajes montañosos",True,1846
+06.01.03,Volcanes,True,58
+06.01.07,Grutas,True,5
+06.03.01,Escenas lacustres o marítimas,False,0
+06.03.11,Paisajes con agua corriente,True,233
+06.06.01,Paisajes desérticos o paisajes con vegetación muy escasa,True,111
+06.06.02,Oasis,True,24
+06.06.25,Otros paisajes de tipo tropical,True,32
+06.07.01,Calles,True,48
+06.07.02,Plazas,True,38
+06.07.04,Áreas construidas,True,712
+06.07.11,"Paisajes urbanos o escenas aldeanas con agua, río o arroyo",True,154
+06.07.25,Otros paisajes urbanos o escenas aldeanas,True,566
+06.19.01,Otros paisajes,True,783
+07.01.01,"Castillos, fortalezas, murallas almenadas, palacios",True,1526
+07.01.03,"Iglesias, catedrales, abadías, monasterios",True,515
+07.01.04,"Mezquitas, minaretes",True,174
+07.01.05,Pagodas,True,169
+07.01.06,"Torres o mástiles, grúas",True,930
+07.01.08,"Casas, rascacielos",False,0
+07.01.13,Molinos de viento o molinos de agua,True,482
+07.01.14,"Establecimientos industriales, chimeneas de fábrica",True,368
+07.01.15,Estaciones de gasolina,True,59
+07.01.16,Faros,True,315
+07.01.17,"Quioscos, refugios, casetas de feria, puestos de mercado",True,72
+07.01.18,"Carteles o pilares publicitarios, otras estructuras para publicidad",True,882
+07.01.19,"Chozas, cabañas",True,125
+07.01.20,"Tiendas, yurtas",True,282
+07.01.21,Iglús,True,49
+07.01.22,Jaulas o perreras de animales,True,20
+07.01.24,Viviendas o edificios estilizados,True,5433
+07.01.25,Otras viviendas o edificios,True,1112
+07.01.26,"Tiendas, supermercados, restaurantes, teatros",True,23
+07.03.01,"Puertas, entradas",True,573
+07.03.02,"Ventanas, cristales de ventanas, vitrales",True,548
+07.03.03,"Bahías, balcones, balaustradas, moucharabíes",True,106
+07.03.04,Interiores,False,0
+07.03.11,Tejados,True,624
+07.03.12,"Chimeneas, sombretes de chimenea",True,65
+07.03.13,Escaparates,True,43
+07.03.15,"Escaleras, escaleras mecánicas",True,221
+07.03.20,"Persianas, postigos, toldos",True,116
+07.03.25,Otras partes de viviendas o de edificios,True,181
+07.05.01,Pirámides (estructuras),True,147
+07.05.02,"Construcciones reconocidas como monumentos (Gran Muralla China, Torre Eiffel, Estatua de la Libertad, etc.)",True,594
+07.05.05,Otros monumentos antiguos,True,349
+07.05.09,"Estadios, anfiteatros, patios de juegos, campos de deporte",True,254
+07.05.10,"Arcos triunfales, pórticos, puertas de la ciudad",True,336
+07.05.11,Laberintos,True,191
+07.05.12,Postes totémicos,True,27
+07.05.13,Lápidas,True,2
+07.05.15,"Fuentes, cuencas, piscinas, chorros o surtidores de agua, pozos",True,524
+07.05.25,Otros monumentos,True,132
+07.11.01,Puentes,True,520
+07.11.05,Túneles,True,43
+07.11.10,"Carreteras, intersecciones, bifurcaciones de carreteras",True,1013
+07.11.15,Líneas de ferrocarril,True,88
+07.11.20,"Postes de amarre, puntos de amarre",True,19
+07.11.21,"Hidrantes de agua, hidrantes de incendios",True,4
+07.11.23,Presas,True,3
+07.11.25,Otras obras estructurales,True,100
+07.15.01,"Piedras de construcción, ladrillos",True,453
+07.15.05,"Tablillas, placas, paneles, losas",True,255
+07.15.06,Hierro corrugado u otros materiales corrugados,True,76
+07.15.08,Representaciones de madera,True,485
+07.15.09,Baldosas,True,196
+07.15.20,Otros materiales de construcción,True,429
+07.15.22,"Muros, puertas o barreras",True,321
+07.15.25,Andamios,True,25
+07.15.26,Paneles solares,True,94
+08.01.01,Pan,True,309
+08.01.05,Pretzels,False,0
+08.01.06,"Galletas, rebanadas de pan, rebanadas de pan untadas con mantequilla, mermelada u otra sustancia comestible de consistencia similar, sándwiches",True,194
+08.01.07,"Bollos, brioches",True,97
+08.01.08,Croissants,True,78
+08.01.09,Galletas pequeñas,True,585
+08.01.15,Pasteles,True,262
+08.01.18,Helados,True,634
+08.01.19,"Chocolate, confitería",True,1240
+08.01.25,Otros productos de panadería,True,501
+08.03.01,"Leche, crema",True,263
+08.03.02,Crema batida,True,38
+08.03.03,"Mantequilla, margarina",True,39
+08.03.08,Quesos,True,426
+08.03.25,Otros productos lácteos,True,62
+08.05.01,"Carnes de carnicería, productos de cerdo, productos de pescadería",True,367
+08.07.01,"Sopas o bebidas (en platos, en tazas, en cuencos, en soperas, en vasos, etc.)",True,1077
+08.07.02,Albóndigas,False,0
+08.07.03,"Macarrones, otras pastas",True,303
+08.07.04,Pizzas,True,272
+08.07.05,Platos o fuentes llenas,True,330
+08.07.07,"Platos de verduras, ensaladas de verduras",True,48
+08.07.08,"Papas fritas, productos de papa y productos similares",True,342
+08.07.09,Palomitas de maíz,True,29
+08.07.10,"Tacos, envueltos, kebabs, empanadas, hamburguesas y productos similares",True,102
+08.07.11,"Huevos de todo tipo, huevos cocidos",True,492
+08.07.14,"Ensaladas de frutas, compotas de frutas",True,6
+08.07.15,"Flan, pudines, tortillas",True,10
+08.07.16,"Panqueques, crepas, tortillas",True,26
+08.07.17,Mezclas de alimentos clasificados en diferentes divisiones,True,131
+08.07.21,"Azúcar, sal, especias molidas, harina",True,39
+08.07.22,"Alimentos para perros y gatos (nuggets), pellets y escamas para animales",True,69
+08.07.23,Alimentos en pinchos,False,0
+08.07.25,Otros alimentos no clasificados en,True,661
+09.01.01,"Textiles distintos a la ropa, lanzaderas",True,413
+09.01.07,"Encajes, trenzas, cintas, cordones, cuerdas",True,942
+09.01.08,Puntadas,True,545
+09.01.09,"Bordados, paños de té, manteles individuales, ribetes",True,99
+09.01.10,"Cintas, lazos",True,986
+09.01.11,"Tela, red, lino plano, cortinas, alfombras",True,843
+09.01.23,"Ropa de cama, cojines, edredones",True,115
+09.01.24,"Etiquetas de tela, con o sin bordes ondulados",True,289
+09.01.25,Otros artículos textiles no clasificados en divisiones,True,224
+09.03.01,Ropa,False,0
+09.03.26,Grupos de ropa de diferentes tipos,True,13
+09.05.01,"Accesorios de costura, patrones para confección",False,0
+09.05.10,Otros accesorios de costura,False,0
+09.07.01,Sombrería,False,0
+09.09.01,Calzado,False,0
+10.01.01,"Tabaco, requisitos de fumadores, fósforos",False,0
+10.01.10,"Requisitos de fumadores, fósforos",False,0
+10.03.01,"Artículos de viaje, abanicos, bolsas",True,256
+10.03.07,Abanicos,True,190
+10.03.08,"Carteras, monederos",True,46
+10.03.10,"Bolsas, maletas, baúles",True,1084
+10.03.25,Otros artículos de viaje,True,35
+10.05.01,"Artículos de tocador, espejos",True,189
+10.05.04,Artículos de afeitado (excepto,True,86
+10.05.11,Cortapelos,True,11
+10.05.13,"Peines, cepillos para el cabello",True,69
+10.05.15,Lápices de labios,True,47
+10.05.17,Espejos,True,104
+10.05.19,Sprays para propósitos de aseo,True,48
+10.05.21,Jabón,True,46
+10.05.25,"Otros artículos de aseo, otros productos cosméticos o de aseo",True,293
+11.01.01,"Cuchillos, tenedores y cucharas, utensilios de cocina y máquinas",False,0
+11.01.10,Utensilios de cocina y máquinas,False,0
+11.03.01,"Recipientes para bebidas, platos y platería, utensilios de cocina para servir, preparar o cocinar alimentos o bebidas",True,416
+11.03.05,"Recipientes para comer o servir, bandejas",True,127
+11.03.14,"Teteras, cafeteras, hervidor",True,275
+11.03.18,"Sartenes, ollas, cazuelas, sartenes, planchas de cocina, calderos",True,457
+11.07.01,Otros utensilios de hogar,True,61
+12.01.01,Muebles,False,0
+12.03.01,Instalaciones sanitarias,False,0
+12.03.02,"Lavabos, fregaderos",True,20
+13.01.01,"Iluminación, válvulas inalámbricas",True,225
+13.01.05,"Antorchas, teas (excepto",True,219
+13.01.06,"Lámparas, luces de hada, linternas, válvulas inalámbricas",False,0
+13.03.01,"Calefacción, cocina o equipos refrigeradores, lavadoras, secadoras",False,0
+13.03.23,"Lavadoras, lavavajillas (máquinas)",True,122
+13.03.24,Equipos de secado doméstico,True,1
+13.03.25,Planchas y otros aparatos de planchado,True,29
+14.01.01,"Tubos, cables, artículos pesados de ferretería",True,592
+14.01.05,"Barras, cables",True,361
+14.01.13,"Cadenas, eslabones de cadena",True,857
+14.01.18,Otros artículos pesados de ferretería,True,416
+14.03.01,"Pequeños artículos de ferretería, resortes",True,727
+14.03.20,Otros artículos pequeños de ferretería,True,608
+14.03.21,Resortes,True,240
+14.05.01,"Llaves para cerraduras, cerraduras, candados",True,790
+14.05.20,"Llaveros, con o sin llaves",True,39
+14.05.21,"Cerraduras, escudetes, cerraduras",True,524
+14.05.23,Candados,True,446
+14.05.24,Esposas,True,23
+14.07.01,Herramientas,True,397
+14.07.02,Hachas,True,82
+14.07.04,"Yunques, hormas de zapatero",True,77
+14.07.06,Otras herramientas (excepto,True,554
+14.07.18,Cubertería,True,30
+14.07.23,"Paletinas de albañil y tenazas de yesero, espátulas que no sean cuchillos de paleta de artista (",True,31
+14.09.01,"Implementos agrícolas u hortícolas, piolets",True,84
+14.09.05,"Picos, piolets, azadas",True,49
+14.09.07,"Guadañas, hoces",True,58
+14.09.10,Otros implementos agrícolas u hortícolas,True,41
+14.11.01,Escaleras,True,124
+15.01.01,"Máquinas para industria o agricultura, instalaciones industriales, motores, máquinas, diversos aparatos mecánicos",True,417
+15.01.07,Cintas transportadoras,True,32
+15.01.11,"Motores, máquinas",True,88
+15.01.13,"Propulsores, ventiladores, soplantes, turbinas, quemadores",True,2660
+15.01.17,"Partes de máquinas para industria o agricultura, de instalaciones industriales o de motores y máquinas (incluyendo brazos robóticos)",True,584
+15.01.19,"Grúas, aparejos, poleas",True,87
+15.01.21,"Rociadores, pistolas de pintura, extintores, aspersores de agua",True,229
+15.01.22,Máquinas para agricultura,True,54
+15.01.23,Bombas de gasolina,True,87
+15.01.24,"Distribuidores automáticos, máquinas expendedoras de monedas (excepto",True,36
+15.01.25,Varios otros aparatos mecánicos,True,365
+15.03.01,"Máquinas para uso doméstico, ruecas",False,0
+15.03.11,"Ruecas, copos, telares",True,14
+15.05.01,Máquinas de oficina,True,11
+15.05.25,Otras máquinas de oficina,True,23
+15.07.01,"Ruedas, cojinetes",True,1927
+15.07.07,"Ruedas de barco, cabrestantes, ruedas de paletas",True,230
+15.07.09,"Otras ruedas, con o sin radios",True,1180
+15.07.11,Rodamientos de bolas y otros rodamientos,True,206
+15.07.15,"Engranajes, varias ruedas yuxtapuestas, ruedas de transmisión",True,537
+15.07.17,Ruedas o segmentos de rueda con alas,True,97
+15.09.01,Equipos eléctricos,False,0
+16.01.01,"Telecomunicaciones, grabación o reproducción de sonido, computadoras",True,328
+16.01.04,"Aparatos y equipos de telecomunicación, televisión, grabación de sonido o reproducción de sonido, computadoras",False,0
+16.03.01,"Fotografía, cinematografía, óptica",False,0
+16.03.11,"Otros aparatos, instrumentos o equipos para fotografía o cine",True,404
+16.03.13,"Gafas, marcos de gafas",True,569
+16.03.15,"Binoculares, telescopios, catalejos, microscopios",True,186
+16.03.17,Lupas con mango,True,571
+16.03.19,"Lentes ópticas, lentes de contacto, lentes de gafas",True,161
+16.03.25,"Otros aparatos, instrumentos o equipos ópticos",True,234
+17.01.01,Instrumentos horológicos y otros instrumentos de medición de tiempo,False,0
+17.01.17,Relojes de sol,True,21
+17.01.19,Relojes de arena,True,148
+17.01.25,Otros instrumentos de medición de tiempo,True,95
+17.02.01,Joyas,False,0
+17.02.05,Perlas,True,137
+17.02.13,"Collares, pulseras, cadenas de joyería",True,168
+17.02.17,Anillos y anillos de bodas,True,241
+17.02.25,Otras joyas,True,259
+17.03.01,"Básculas, pesos",False,0
+17.05.01,Medidas,False,0
+18.01.01,Vehículos terrestres,True,77
+18.01.05,"Bicicletas, motocicletas, motos, triciclos",True,703
+18.01.07,Vehículos de carretera motorizados,False,0
+18.01.11,"Vehículos ferroviarios, trenes, tranvías",True,206
+18.01.14,Otros vehículos terrestres,True,207
+18.01.21,"Neumáticos, huellas de neumáticos, cadenas de nieve, ejes con o sin ruedas, volantes, radiadores, escapes, amortiguadores para vehículos terrestres",True,1389
+18.01.23,Vehículos terrestres estilizados,True,2051
+18.01.25,Otros medios de transporte no clasificados en divisiones,True,99
+18.02.01,Equipos para animales,True,351
+18.02.07,Equipos para caballos (excepto,True,26
+18.02.17,Equipos para perros y gatos,True,39
+18.02.25,Equipos para otros animales,True,14
+18.03.01,Vehículos para uso en agua y vehículos anfibios,True,229
+18.03.02,"Botes de vela, tablas de vela",False,0
+18.03.14,Botes a motor y barcos,True,557
+18.03.21,"Velas, portillos, remos",True,666
+18.03.23,Botes fantásticos o estilizados,True,1121
+18.03.25,Otros medios de transporte en agua,True,45
+18.04.01,Anclajes; boyas o salvavidas,False,0
+18.05.01,Vehículos aéreos o espaciales,True,1245
+18.05.05,Otros vehículos aéreos,True,219
+18.05.10,"Cohetes espaciales y cápsulas, satélites artificiales",True,409
+18.05.11,"Naves espaciales fantásticas, platillos volantes",False,0
+18.07.01,Señales de tráfico y tableros indicadores,False,0
+18.07.22,Señales de tráfico acuático o aéreo,False,0
+19.01.01,Recipientes grandes,True,232
+19.01.03,"Recipientes grandes no cilíndricos o no elípticos (como cajas, jaulas, contenedores)",True,491
+19.01.04,"Latas, cubos, regaderas",True,187
+19.03.01,Pequeños recipientes,True,1369
+19.03.03,Recipientes pequeños no cilíndricos o no elípticos,True,1858
+19.03.06,Vainas de café o té,False,0
+19.07.01,"Botellas, frascos",True,3233
+19.07.02,Botellas o frascos en sección horizontal transversal que no sea circular o elíptica,True,703
+19.07.06,"Botellas o frascos que representan un ser humano, un animal, parte del cuerpo humano o del cuerpo de un animal, u un objeto inanimado",True,102
+19.07.07,Botellas o frascos con asa,True,97
+19.07.25,Otras botellas o frascos,True,777
+19.07.26,Biberones,True,132
+19.08.01,Partes o accesorios de botellas,False,0
+19.09.01,"Ánforas, jarras, jarrones, macetas, soportes para plantas",False,0
+19.10.01,"Ataúdes, urnas funerarias",False,0
+19.11.01,Recipientes para uso de laboratorio y para farmacia,True,153
+19.11.04,Recipientes para uso de laboratorio y para farmacia,True,714
+19.13.01,"Aparatos, instrumentos o utensilios médicos o quirúrgicos, prótesis, medicinas",False,0
+19.19.01,Representaciones de productos varios,False,0
+20.01.01,"Material de escritura, dibujo o pintura, pequeños requisitos de oficina",False,0
+20.01.15,"Caballetes de artista, tablas de dibujo, pizarras, pizarras, paletas de artista",True,80
+20.01.17,Otros pequeños requisitos de oficina,True,213
+20.05.01,"Papeles, documentos",True,257
+20.05.03,Calendarios,True,24
+20.05.05,"Otros documentos que contienen textos manuscritos o impresos, o tablas",True,231
+20.05.07,"Planos, dibujos esquemáticos, diagramas, curvas, contornos",True,2626
+20.05.11,"Tarjetas, fichas, tarjetas perforadas o cintas",True,160
+20.05.13,Sobres,True,391
+20.05.14,Tarjetas de visita,True,8
+20.05.15,Etiquetas colgantes,True,800
+20.05.16,"Tarjetas bancarias, de crédito o de identificación, con o sin código de barras, magnéticas o no",True,481
+20.05.21,Sellos postales,True,164
+20.05.23,Billetes de banco,True,71
+20.05.24,"Papel aplastado o arrugado, papel rasgado",True,60
+20.05.25,"Papel en rollos, papel pintado, otros papeles y documentos",True,1735
+20.07.01,"Libros, encuadernaciones, periódicos",False,0
+21.01.01,"Juegos, juguetes",True,338
+21.01.09,"Dados de juego, dominós",True,221
+21.01.11,"Tableros de damas, tableros de ajedrez, crucigramas",True,52
+21.01.13,Piezas de ajedrez,True,132
+21.01.14,Rompecabezas y sus elementos constitutivos,True,445
+21.01.15,"Juegos de construcción, piezas para juegos de construcción",True,173
+21.01.16,Globos,True,199
+21.01.17,Molinos de viento (girandolas),True,153
+21.01.18,Consolas de videojuegos y controladores,False,0
+21.01.19,Varitas mágicas,False,0
+21.01.20,Bolas de Navidad,False,0
+21.01.25,Otros juegos o juguetes,True,1614
+21.03.01,"Artículos deportivos, tiovivos",True,1118
+21.03.03,Bolos,True,27
+21.03.05,Raquetas,True,85
+21.03.07,"Palos de golf y bolsas, palos de hockey, mallets de polo",True,426
+21.03.09,"Esquís, puntas de esquí, bastones de esquí",True,65
+21.03.10,Tablas de nieve,True,16
+21.03.11,"Patines de hielo o ruedas, monopatines",True,86
+21.03.13,"Pesas, pesos para levantamiento",True,143
+21.03.14,Postes de cricket y bates,True,39
+21.03.15,Equipo para pesca y caza (excepto,True,101
+21.03.16,"Redes para pesca, caza o juegos",True,157
+21.03.17,Porterías para fútbol y otros deportes de equipo,True,44
+21.03.19,"Carruseles, toboganes, columpios, balancines",True,44
+21.03.20,"Máscaras de buceo, esnórqueles, aletas",False,0
+21.03.21,Blancos,True,1875
+21.03.22,Fútbol de mesa (artículos deportivos),True,3
+21.03.23,Guantes de boxeo,True,58
+21.03.24,Mesas de billar y tacos de billar,True,15
+21.03.25,Otros artículos deportivos,True,314
+22.01.01,"Instrumentos musicales, accesorios de instrumentos musicales, accesorios musicales",True,85
+22.01.05,"Instrumentos de viento, silbatos",True,366
+22.01.10,Instrumentos de teclado,True,81
+22.01.15,Instrumentos de cuerda,True,329
+22.01.21,"Accesorios de instrumentos musicales, accesorios de música",True,79
+22.01.25,Otros instrumentos musicales,True,60
+22.03.01,Campanas,False,0
+22.05.01,"Cuadros, esculturas",True,351
+22.05.10,Esculturas que representan seres humanos,True,440
+22.05.19,Esculturas que representan animales,True,109
+22.05.25,Otras esculturas,True,128
+23.01.01,"Armas cortas, otras armas que no sean armas de fuego",True,1146
+23.01.05,"Arcos, carcajs",True,168
+23.01.07,Ballestas,True,25
+23.01.25,Otras armas que no sean armas de fuego,True,242
+23.03.01,"Armas de fuego, municiones, explosivos",False,0
+23.03.10,"Munición, explosivos",False,0
+23.05.01,Armaduras,True,26
+24.01.01,Escudos,True,357
+24.01.03,"Escudos que contienen representaciones de figuras geométricas o sólidos, líneas, bandas o particiones",True,3152
+24.01.05,Escudos que contienen otros elementos figurativos o inscripciones,True,3299
+24.01.17,Escudos con elementos figurativos o inscripciones ubicados afuera,False,0
+24.01.23,Varios escudos,True,546
+24.01.25,Escudos de forma inusual,True,1237
+24.03.01,"Sellos, estampillas",False,0
+24.05.01,"Medallas, monedas, decoraciones, órdenes",True,557
+24.05.05,Dos medallas o monedas,True,132
+24.05.07,Más de dos medallas o monedas,True,622
+24.05.20,"Decoraciones, órdenes",False,0
+24.07.01,Banderas,True,3952
+24.07.03,Dos o más banderas,True,542
+24.09.01,"Coronas, diademas",True,2310
+24.09.02,Coronas abiertas en la parte superior,True,4867
+24.09.03,Coronas estilizadas o fantásticas,True,1875
+24.09.04,Diademas,True,98
+24.11.01,"Emblemas, insignias",True,27
+24.11.03,Báculos con alas (bastón de Mercurio),True,94
+24.11.05,"Báculos pastorales, cayados de pastor",True,62
+24.11.07,Tridente de Neptuno,True,294
+24.11.11,Globos rematados con una cruz,True,52
+24.11.13,Mitras,True,37
+24.11.14,Casco de Mercurio (con alas),True,75
+24.11.15,Estrella de David,True,50
+24.11.16,Cuernos de la abundancia,True,26
+24.11.17,Símbolo chino de buena suerte (Ruyi),True,6
+24.11.18,"Signos, dibujos u otros elementos figurativos reconocidos como emblemas o insignias",True,150
+24.11.21,"Galón (como decoración de honor o rango), escarapelas",True,178
+24.11.25,Otros emblemas o insignias,True,510
+24.13.01,Cruces,True,3690
+24.13.02,"Cruz latina, cruz tau",True,437
+24.13.03,"Cruz de Lorena, cruz papal",True,42
+24.13.04,Cruz de Malta,True,301
+24.13.05,Cruces formadas por inscripciones,True,168
+24.13.25,Otras cruces,True,1636
+24.15.01,Flechas,True,7496
+24.15.02,"Dos flechas, flechas de doble cabeza",True,3429
+24.15.03,Más de dos flechas,True,2072
+24.15.21,Puntas de flecha,True,2764
+24.17.01,"Signos, notaciones, símbolos",True,3188
+24.17.03,Asteriscos,True,1211
+24.17.05,Signos matemáticos,False,0
+24.17.10,Símbolos musicales,False,0
+24.17.15,"Signos astronómicos o astrológicos, signos del zodiaco, signos masculinos o femeninos",True,450
+24.17.16,Símbolo de prescripción (Rx),False,0
+24.17.17,Símbolo de arroba (@),True,1926
+24.17.18,Símbolos de moneda,True,876
+24.17.19,Símbolo de reciclaje,True,221
+24.17.20,Signos de verificación,True,2196
+24.17.21,Símbolo yin y yang,True,421
+24.17.22,Símbolo de paz,True,69
+24.17.23,Símbolo de prohibición,True,229
+24.17.24,Iconos de pasador,True,1673
+24.17.25,"Otros signos, notaciones o símbolos",True,5420
+24.17.26,Símbolos de encender/apagar,False,0
+24.17.27,"Códigos de barras, códigos QR",False,0
+25.01.01,Motivos ornamentales,True,552
+25.01.05,Bandas y bordes ornamentales (excepto,True,2239
+25.01.06,"Banderolas, cartelas",True,7914
+25.01.09,Marcos y marcos,True,1928
+25.01.15,"Etiquetas, collaretas (etiquetas de cuello de botella)",False,0
+25.01.25,Otros motivos ornamentales,True,6686
+25.03.01,Superficies ornamentales alargadas horizontalmente,False,0
+25.05.01,Fondos divididos en dos o cuatro,True,3139
+25.05.02,"Fondos divididos en dos, horizontalmente",True,2792
+25.05.03,"Fondos divididos en dos, diagonalmente",True,854
+25.05.05,"Fondos divididos transversalmente, vertical y horizontalmente",True,364
+25.05.06,"Fondos divididos transversalmente, diagonalmente",True,99
+25.05.25,Otros fondos divididos en dos o cuatro,True,4637
+25.07.01,"Superficies o fondos cubiertos con figuras geométricas repetidas, elementos figurativos o inscripciones",True,4
+25.07.15,Superficies o fondos cubiertos con sombreado,True,747
+25.07.17,Superficies o fondos cubiertos con una inscripción repetida,True,869
+25.07.20,Superficies o fondos cubiertos con líneas o bandas,True,2399
+25.07.25,Superficies o fondos cubiertos con otros elementos figurativos repetidos,True,1987
+25.12.01,Superficies o fondos cubiertos con otros ornamentos,True,906
+25.12.03,Superficies o fondos de muaré,True,4054
+25.12.25,Superficies o fondos cubiertos con cualquier otro ornamento,True,1117
+26.01.01,"Círculos, elipses",False,0
+26.01.02,Elipses,False,0
+26.01.04,"Dos círculos, dos elipses, uno dentro del otro",True,4943
+26.01.05,"Más de dos círculos o elipses, uno dentro del otro, espirales",True,4671
+26.01.06,"Varios círculos o elipses, yuxtapuestos, tangenciales o intersecantes",True,20
+26.01.07,Círculos que contienen una o más elipses,True,223
+26.01.08,Círculos que contienen uno o más polígonos (excepto,True,174
+26.01.09,Elipses que contienen uno o más círculos o polígonos (excepto,False,0
+26.01.10,Círculos o elipses que contienen uno o más triángulos o líneas que forman un ángulo,True,1460
+26.01.11,Círculos o elipses que contienen uno o más cuadriláteros,True,964
+26.01.12,Círculos o elipses que contienen una o más otras figuras geométricas,True,971
+26.01.26,Círculos o elipses con áreas recortadas,False,0
+26.02.01,Segmentos o sectores de círculos o elipses,True,1375
+26.02.03,Sectores de círculos o elipses (excepto,True,1049
+26.02.05,Segmentos unidos o intersecantes o sectores de círculos o elipses,True,872
+26.02.07,"Semicírculos, semielipses",True,1409
+26.02.12,"Segmentos o sectores de círculos o elipses, semicírculos o semielipses que contienen una o más figuras geométricas",True,165
+26.02.26,"Segmentos o sectores de círculos o elipses, semicírculos o semielipses con áreas recortadas",False,0
+26.03.01,"Triángulos, líneas que forman un ángulo",True,9365
+26.03.02,"Dos triángulos, uno dentro del otro",True,565
+26.03.03,"Más de dos triángulos, uno dentro del otro",True,280
+26.03.04,"Varios triángulos, yuxtapuestos, unidos o intersecantes",True,5912
+26.03.10,"Triángulos que contienen uno o más círculos, elipses o polígonos (excepto",True,362
+26.03.11,Triángulos que contienen uno o más cuadriláteros,True,91
+26.03.12,Triángulos que contienen una o más otras figuras geométricas,True,92
+26.03.23,Líneas o bandas que forman un ángulo,True,7921
+26.03.26,Triángulos con áreas recortadas,False,0
+26.04.01,Cuadriláteros,True,33111
+26.04.02,Rectángulos,True,50736
+26.04.03,Rombos o cuadrados en pie en una de sus esquinas,True,7498
+26.04.04,"Otros paralelogramos irregulares, trapecios y cuadriláteros, cuadriláteros que contienen una o más esquinas redondeadas",True,9943
+26.04.07,"Dos cuadriláteros, uno dentro del otro",True,8023
+26.04.08,"Más de dos cuadriláteros, uno dentro del otro",True,3573
+26.04.09,"Varios cuadriláteros yuxtapuestos, unidos o intersecantes",True,18425
+26.04.10,"Cuadriláteros que contienen uno o más círculos, elipses o polígonos",True,9155
+26.04.11,Cuadriláteros que contienen uno o más triángulos o líneas que forman un ángulo,True,3017
+26.04.12,Cuadriláteros que contienen una o más otras figuras geométricas,True,1799
+26.04.26,Cuadriláteros con áreas recortadas,False,0
+26.05.01,Otros polígonos,True,6455
+26.05.02,"Dos polígonos, uno dentro del otro (excepto",True,647
+26.05.03,"Varios polígonos, uno dentro del otro (excepto",True,339
+26.05.04,"Varios polígonos, yuxtapuestos, unidos o intersecantes",True,1567
+26.05.08,Polígonos con una o más esquinas truncadas o redondeadas,True,1080
+26.05.09,Polígonos que contienen uno o más círculos o elipses,True,319
+26.05.10,Polígonos que contienen uno o más triángulos o líneas que forman un ángulo,True,442
+26.05.11,Polígonos que contienen uno o más cuadriláteros,True,349
+26.05.12,Polígonos que contienen una o más otras figuras geométricas,True,132
+26.05.26,Polígonos con áreas recortadas,False,0
+26.07.01,"Diferentes figuras geométricas, yuxtapuestas, unidas o que se cruzan",True,252
+26.07.03,Círculos o elipses con uno o más triángulos y/o líneas que forman un ángulo,True,1299
+26.07.04,Círculos o elipses con líneas (excepto,True,7096
+26.07.05,Círculos o elipses con uno o más otros cuadriláteros,True,3277
+26.07.07,Círculo o elipses con uno o más otros polígonos,True,211
+26.07.09,Segmentos o sectores de círculos o elipses con uno o más triángulos y/o líneas que forman un ángulo,True,118
+26.07.11,Segmentos o sectores de círculos o elipses con uno o más cuadriláteros,True,253
+26.07.13,Segmentos o sectores de círculos o elipses con uno o más otros polígonos,True,11
+26.07.15,Triángulos o líneas que forman un ángulo con uno o más cuadriláteros,True,2247
+26.07.17,Triángulos o líneas que forman un ángulo con uno o más polígonos que no sean cuadriláteros,True,352
+26.07.18,Triángulos con líneas,True,2112
+26.07.19,Cuadriláteros con uno o más polígonos que no sean triángulos,True,541
+26.07.20,Cuadriláteros con líneas,True,5223
+26.07.21,Polígonos con líneas,True,448
+26.07.25,"Otras combinaciones de diferentes figuras geométricas, yuxtapuestas, unidas o intersecantes",True,2908
+26.11.01,"Líneas, bandas",True,28406
+26.11.02,Dos líneas o bandas,True,17249
+26.11.03,Más de dos líneas o dos bandas,True,36
+26.13.01,"Otras figuras geométricas, diseños indefinibles",True,1721
+26.13.02,Cintas de Möbius,False,0
+26.13.25,"Otras figuras geométricas, diseños indefinibles",True,10390
+26.15.01,Sólidos geométricos,True,24
+26.15.03,Cilindros,True,490
+26.15.05,Conos,True,195
+26.15.07,Pirámides (figuras geométricas),True,587
+26.15.09,Cubos,True,2703
+26.15.11,Paralelepípedos,True,791
+26.15.13,Prismas,True,97
+26.15.15,Otros poliedros,True,475
+26.15.25,Otros sólidos geométricos,True,2380
+27.01.01,"Letras o números que forman figuras geométricas, escritura o asunto tipográfico en perspectiva",False,0
+27.03.01,"Letras o números que representan un ser humano, un animal, una planta, un cuerpo celeste, un fenómeno natural u un objeto",False,0
+27.05.01,Letras que presentan una forma especial de escritura,True,96631
+27.07.01,Números que presentan una forma especial de escritura,True,4542
+28.01.01,Inscripciones en caracteres árabes,False,0
+28.03.01,"Inscripciones en caracteres chinos, japoneses o coreanos",False,0
+28.05.01,Inscripciones en caracteres cirílicos,False,0
+28.07.01,Inscripciones en caracteres griegos,False,0
+28.09.01,Inscripciones en caracteres hebreos,False,0
+28.11.01,Inscripciones en caracteres latinos,False,0
+28.17.01,"Inscripciones en caracteres históricos, cuneiformes o jeroglíficos",False,0
+28.19.01,Inscripciones en otros caracteres,False,0
+29.01.01,Colores,True,42996
+29.01.02,"Amarillo, oro",True,14740
+29.01.03,Verde,True,29641
+29.01.04,Azul,True,50019
+29.01.05,Violeta,True,5297
+29.01.06,"Blanco, gris, plata",True,17647
+29.01.07,Marrón,True,3934
+29.01.08,Negro,True,30849
+29.01.12,Dos colores predominantes,True,253
+29.01.13,Tres colores predominantes,True,88
+29.01.14,Cuatro colores,True,20
+29.01.15,Cinco o más colores,True,86
